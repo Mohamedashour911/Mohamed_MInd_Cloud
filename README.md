@@ -1,15 +1,15 @@
 # My pesonal data
 
-##My name
-###Mohamed ashor
+## My name
+### Mohamed ashor
 
-##My age
-##20
+## My age
+## 20
 
-##My department
-###communication
+## My department
+### communication
 
-##My favourite team
-###Hardware team 
+## My favourite team
+### Hardware team 
 
-##screen shots
+## screen shots
