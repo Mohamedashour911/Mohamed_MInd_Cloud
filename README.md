@@ -1,15 +1,15 @@
 # My personal data
-##my name
-###mohamed ashour
+## my name
+### mohamed ashour
 
-##My age
-##23
+## My age
+## 23
 
-##My department
-###communication department
+## My department
+### communication department
 
-##My favourite team
+## My favourite team
 ### Hardware
 
-##The screen shots
+## The screen shots
 
