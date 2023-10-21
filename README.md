@@ -12,5 +12,5 @@
 ### Hardware
 
 ## The screen shots
-![Alt text](C:\Users\DELL\Desktop)
+![alt text](http://url/to/img.png)
 
