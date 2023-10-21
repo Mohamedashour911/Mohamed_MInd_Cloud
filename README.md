@@ -1,16 +1,18 @@
-# My personal data
-## my name
-### mohamed ashour
+# My pesonal data
+
+## My name
+### Mohamed ashor
 
 ## My age
-## 23
+## 20
 
 ## My department
-### communication department
+### communication
 
 ## My favourite team
-### Hardware
+### Hardware team 
 
-## The screen shots
-![alt text]([http://url/to/img.png](https://github.com/Mohamedashour911/Mohamed_Mind_Cloud/blob/feature/Screenshot%202023-10-21%20233112.png)https://github.com/Mohamedashour911/Mohamed_Mind_Cloud/blob/feature/Screenshot%202023-10-21%20233112.png)
+## screen shots
+![Screenshot 2023-10-21 233112](https://github.com/Mohamedashour911/Mohamed_Mind_Cloud/assets/148632694/1f6d219f-f234-40e4-8d1b-a5bbaaa23924)
 
+![Screenshot 2023-10-22 003741](https://github.com/Mohamedashour911/Mohamed_Mind_Cloud/assets/148632694/c3877616-94d5-4b48-ba72-24e21257087c)
