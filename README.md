@@ -12,4 +12,5 @@
 ### Hardware
 
 ## The screen shots
+![Alt text](C:\Users\DELL\Desktop)
 
